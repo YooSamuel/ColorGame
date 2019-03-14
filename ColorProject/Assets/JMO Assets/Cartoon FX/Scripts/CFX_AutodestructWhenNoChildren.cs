@@ -1,9 +1,9 @@
 using UnityEngine;
 using System.Collections;
 
-// Cartoon FX  - (c) 2013, Jean Moreno
-
-// Automatically destroys the GameObject when there are no children left.
+/// <summary>
+/// Automatically destroys the GameObject when there are no children left.
+/// </summary>
 
 public class CFX_AutodestructWhenNoChildren : MonoBehaviour
 {
